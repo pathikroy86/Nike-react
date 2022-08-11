@@ -1,0 +1,41 @@
+.header-background {
+    background-color: #FFF9F4;
+    padding-bottom: 50px;
+    margin-bottom: 30px;
+}
+
+.header-font-resize h2 {
+    color: #FA804C;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.header-font-resize h3 {
+    color: #363958;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.button-resize {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    color: white;
+    padding: 20px 40px;
+    border: none;
+}
+
+.card-style {
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+
+.price-tag {
+    color: #FA804C;
+    font-size: 36px;
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bottom-margin {
+    margin-bottom: 100px;
+}
